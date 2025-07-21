@@ -10,3 +10,7 @@ rustc --version
 - [Rust Tutorial for Beginners](https://www.youtube.com/watch?v=qP7LzZqGh30)
 - [Learn the Rust programming language](https://www.youtube.com/watch?v=gAX3Zj-JGE0)
 - [GPU and Vulkan in RUST](https://www.youtube.com/watch?v=TCoFGO2Lb4g)
+
+
+## Discord Server:
+- [Rust for Robotics](https://discord.gg/dQ2wPCHv)
