@@ -26,6 +26,7 @@ rustc ./src/variables.rs --out-dir ./src
 - [The Rust Book](https://doc.rust-lang.org/stable/book/title-page.html)
 - [Rust Tutorial for Beginners](https://www.youtube.com/watch?v=qP7LzZqGh30)
 - [Learn the Rust programming language](https://www.youtube.com/watch?v=gAX3Zj-JGE0)
+- [Learn Rust with W3 schools](https://www.w3schools.com/rust/index.php)
 - [GPU and Vulkan in RUST](https://www.youtube.com/watch?v=TCoFGO2Lb4g)
 
 ## Discord Server:
